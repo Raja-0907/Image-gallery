@@ -24,5 +24,6 @@ body{
     width: 200px;
     color: white;
     margin: 10px;
+    flex-basis: 20%;
     
 }
